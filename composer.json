@@ -1,0 +1,9 @@
+{
+	"autoload" : {
+		"psr-4" : {
+
+			"Core\\Exceptions\\" : "RoutingEngines/ExceptionsEngines",
+			"Core\\Routing\\" : "RoutingEngines"
+		}
+	}
+}
